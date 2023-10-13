@@ -15,35 +15,14 @@ Description:
 
 
 ## API
-
+Endpoints
  
 
 
 ## Request
 API Payload
 
-Request Payload Structure:
 
-For the /postName endpoint, the request payload should be a JSON object containing fname and lname. 
-For example:
-{
-    "lname": "Hortizuela",
-    "fname": "Manny"
-}
-
-For the /updateName endpoint, the request payload should include the id of the name to be updated along with the new fname and lname.
-For example:
-{
-  "id":1,
-  "lname":"wick",
-   "fname":"john"
-}
-
-For the /deleteName endpoint, the request payload should include the id of the name to be deleted.
-For example:
-{
-  "id":1
-}
 
 
 
