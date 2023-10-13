@@ -94,7 +94,7 @@ No license
 ## Contributors
 
 
-Prof. Manny Hortizuela & Mary Joy Paras
+
 
 
  
